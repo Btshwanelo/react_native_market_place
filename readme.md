@@ -1,24 +1,22 @@
 # React Native Market place
 
-This is a frontend React Native application to search jobs and view jobs from Rapid-API api. it has three screens home screen, search jobs screen and view job detail screen. It utilises react native expo for crossplatform application.    
+This is a frontend React Native applicationmarket place for people to bid on items. it has three screens home screen, search screen and view item detail screen. It utilises react native expo for crossplatform application.    
 
 <img src="./assets/images/marketplace.jpg" />
 
 It includes the following:
 
-- React Native frontend to view jobs and search jobs
-- Dynamic routing
-- Expo router
+- React Native frontend to view items.
+- Search functionality
 
 ## Usage
 
-### Install Dependencies (frontend & backend)
+### Install Dependencies (frontend)
 
 ```
 npm install
 
 ```
-
 ### Run
 
 ```
